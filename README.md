@@ -7,4 +7,4 @@ Non-orthogonal multiple access (NOMA) is a promising technique for the fifth gen
 
 ![GitHub Logo](https://github.com/shivamlakhtariya/Performance_of_NOMA_Based_CRS/blob/main/Results/FIG3.png)
 
-
+![GitHub Logo](https://github.com/shivamlakhtariya/Performance_of_NOMA_Based_CRS/blob/main/Results/FIG3_ImperfectCSI.png)
