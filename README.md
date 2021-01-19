@@ -13,7 +13,7 @@ simulations.
 # Derived new output (Implementation of imperfect CSI)
 ![GitHub Logo](https://github.com/shivamlakhtariya/Performance_of_NOMA_Based_CRS/blob/main/Results/FIG3_ImperfectCSI.png)
 
-#Article
+# Reference Article
 R. Jiao, L. Dai, J. Zhang, R. MacKenzie and M. Hao, ”On the Performance of NOMABased Cooperative Relaying Systems Over Rician Fading Channels,” in IEEE Transactions on Vehicular
 Technology, vol. 66, no. 12, pp. 11409-11413, Dec. 2017, doi: 10.1109/TVT.2017.2728608.
 
