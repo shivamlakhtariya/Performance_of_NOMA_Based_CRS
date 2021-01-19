@@ -17,3 +17,6 @@ simulations.
 R. Jiao, L. Dai, J. Zhang, R. MacKenzie and M. Hao, ”On the Performance of NOMABased Cooperative Relaying Systems Over Rician Fading Channels,” in IEEE Transactions on Vehicular
 Technology, vol. 66, no. 12, pp. 11409-11413, Dec. 2017, doi: 10.1109/TVT.2017.2728608.
 
+# Conclusion
+ we have investigated the performance of a NOMAbased cooperative relaying system by deriving the exact analytical expressions of the achievable rates. Moreover, an efficient approximation method using Gauss-Chebyshev Integration for the achievable rates was also proposed, which enables the sum series of the achievable rate expressions converge quickly. Simulation results have verified that our derived analytical results match well with the Monte Carlo simulations, and the NOMA-based CRS is able to achieve higher achievable rate than the traditional CRS.
+
