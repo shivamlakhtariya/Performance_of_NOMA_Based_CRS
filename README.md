@@ -4,6 +4,13 @@ Non-orthogonal multiple access (NOMA) is a promising technique for the fifth gen
 In this paper, a NOMA-based cooperative relaying system is studied, and an analytical framework is developed to evaluate its performance. Specifically, the performance of NOMA over Rician fading channels is studied, and the exact expression of the average achievable rate is derived. Moreover, we also propose an approximation method to calculate the achievable rate by using the Gauss–Chebyshev Integration. Numerical results confirm that our derived analytical results match well with the Monte Carlo
 simulations.
 
+# Contex
+ # Output results
+ # Derived new output
+ # Reference Article
+ # Conclusion
+
+
 # Output results
 ![GitHub Logo](https://github.com/shivamlakhtariya/Performance_of_NOMA_Based_CRS/blob/main/Results/FIG2.JPG)
 
