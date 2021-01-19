@@ -5,10 +5,10 @@ In this paper, a NOMA-based cooperative relaying system is studied, and an analy
 simulations.
 
 # Contex
- # Output results
- # Derived new output
- # Reference Article
- # Conclusion
+ ## Output results
+ ## Derived new output
+ ## Reference Article
+ ## Conclusion
 
 
 # Output results
